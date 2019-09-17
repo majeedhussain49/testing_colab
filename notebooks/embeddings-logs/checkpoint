@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/majeed/notebooks/note_books/Intern/notebooks/embeddings-logs/images_7_classes.ckpt"
+all_model_checkpoint_paths: "/home/majeed/notebooks/note_books/Intern/notebooks/embeddings-logs/images_7_classes.ckpt"
